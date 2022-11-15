@@ -1,0 +1,17 @@
+Name: Model
+Type: FolderType
+Children:
+- Name: VarInteger
+  Id: g=998ca325be8fc5b693407f50c8ab9cf5
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 10
+- Name: VarBoolean
+  Type: BaseDataVariableType
+  DataType: Boolean
+  Value: false
+- Name: VarString
+  Id: g=8059f4665d2a8c03ccee77ef21d89e69
+  Type: BaseDataVariableType
+  DataType: String
+  Value: "Sample01"
